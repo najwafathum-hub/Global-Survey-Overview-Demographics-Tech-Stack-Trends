@@ -6,7 +6,7 @@ An executive-style **Power BI dashboard** that explores global developer survey 
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview](assets/dashboard-preview.png)
+![Dashboard Preview](Dashboard_Global_Survey_Overview.png)
 
 ---
 
