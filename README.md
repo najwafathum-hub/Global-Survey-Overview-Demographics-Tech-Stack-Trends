@@ -4,7 +4,7 @@ An executive-style **Power BI dashboard** that explores global developer survey 
 
 ---
 
-## 🖼 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard Preview](Dashboard_Global_Survey_Overview.png)
 
@@ -93,13 +93,13 @@ Tasks performed in Excel:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Source:** Stack Overflow 2018 Developer Survey (Kaggle Dataset)
 
 ---
 
-## 📌 Key Insights (Quick Takeaways)
+## Key Insights 
 
 - Respondents are concentrated in specific regions/countries (visible on the map)
 - Majority of respondents fall into early-to-mid career age groups
@@ -109,8 +109,8 @@ Tasks performed in Excel:
 
 ---
 
-## 👤 Author
+## Author
 
-**Fathum M.U. Najwa**  
+**@najwafathum0303@gmail.com**  
 Power BI Portfolio Project
 
